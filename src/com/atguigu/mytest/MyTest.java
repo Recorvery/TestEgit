@@ -7,6 +7,8 @@ public class MyTest {
 		System.out.println("This is a test case!");
 		
 		System.out.println("This is second update!");
+		
+		System.out.println("This is third update!");
 	}
 
 }
