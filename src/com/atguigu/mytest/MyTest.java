@@ -8,9 +8,7 @@ public class MyTest {
 		
 		System.out.println("This is second update!");
 		
-		System.out.println("This is third update!");
-		
-		System.out.println("This remote update!");
+		System.out.println("This is third update!"); //这个有待商榷
 	}
 
 }
