@@ -8,7 +8,7 @@ public class MyTest {
 		
 		System.out.println("This is second update!");
 		
-		System.out.println("This is third update!"); //请你再仔细斟酌一下！
+		System.out.println("This is third update!"); //请你再仔细斟酌一下！好不好？？？
 	}
 
 }
